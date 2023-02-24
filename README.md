@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ahmed </h1>
-<h3 align="left">
-I'm a software engineer 💻 with a passion for crafting robust backend solutions using TypeScript and NodeJS. My goal is to bring a touch of magic 🧙‍♂️ to every project I work on and create code that is both robust 💪 and efficient.</h3>
+<h4 align="left">
+I'm a software engineer 💻 with a passion for crafting robust backend solutions using TypeScript and NodeJS. My goal is to bring a touch of magic 🧙‍♂️ to every project I work on and create code that is both robust 💪 and efficient.</h4>
 
 - 🌱 I’m currently learning **more technologies**
 
@@ -10,9 +10,9 @@ I'm a software engineer 💻 with a passion for crafting robust backend solution
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <img "https://www.linkedin.com/in/ahossamdev/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Linkedin" width="15" >
 <a href="https://www.linkedin.com/in/ahossamdev/" >
-Linkedin
+ <img "https://www.linkedin.com/in/ahossamdev/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Linkedin" width="15" >
+ Linkedin
 </a>
 </p>
 
