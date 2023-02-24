@@ -10,7 +10,7 @@ I'm a software engineer 💻 with a passion for crafting robust backend solution
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Linkedin" width="20" >
+ <img "https://www.linkedin.com/in/ahossamdev/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Linkedin" width="15" >
 <a href="https://www.linkedin.com/in/ahossamdev/" >
 Linkedin
 </a>
