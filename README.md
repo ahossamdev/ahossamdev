@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
-<h3 align="center">A full stack web developer from egypt</h3>
+<h1 align="left">Hi 👋, I'm Ahmed </h1>
+<h3 align="left">
+I'm a software engineer 💻 with a passion for crafting robust backend solutions using TypeScript and NodeJS. My goal is to bring a touch of magic 🧙‍♂️ to every project I work on and create code that is both robust 💪 and efficient.</h3>
 
 - 🌱 I’m currently learning **more technologies**
 
-- 💬 Ask me about **reactjs , nodejs , mongoDB , javascript**
+- 💬 Ask me about **reactjs , nodejs , mongoDB , javascript , Html , Css , Express , Flutter**
 
 - ⚡ Fun fact **I'm football player**
 
