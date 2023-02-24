@@ -10,6 +10,10 @@ I'm a software engineer 💻 with a passion for crafting robust backend solution
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/ahossamdev/" >
+<img src:"https://camo.githubusercontent.com/9547b3f12a30957…37461636b2e696d6775722e636f6d2f675645306a2e706e67" alt:"Linkedin" data-canonical-src="https://i.stack.imgur.com/gVE0j.png" style="max-width: 100/>
+" LinkedIn"
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
