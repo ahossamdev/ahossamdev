@@ -48,11 +48,6 @@
   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   
-  ### 📊 GitHub Stats
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahossamdev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </div>
   
   ### 🤝 Connect with Me
   
